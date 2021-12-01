@@ -1,4 +1,4 @@
-To run the program: 
+In order to run the program: 
 
 type in the following command : 
 
